@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... react native
 - 🤔 I’m looking for help with ...new knowledge
 - 📫 How to reach me: milkymiratawana@gmail.com
-- 😄 Pronouns: ...milky
 - ⚡ Fun fact: ...
 contactme:
 https://www.facebook.com/milk.loveystar
